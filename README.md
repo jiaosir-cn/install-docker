@@ -1,6 +1,6 @@
 # install-docker
-# 1.docker 安装
-curl -sSL https://get.docker.com/ | sudo sh     //官网脚本安装docker
+# 1.docker 安装 s使用官网脚本安装
+```curl -sSL https://get.docker.com/ | sudo sh```
 
 
 
