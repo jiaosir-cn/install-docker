@@ -21,6 +21,7 @@
  查询是否安装过 curl
  
  ```which curl```
+ 
  查询是否安装过 docker
  
  ```which docker```
